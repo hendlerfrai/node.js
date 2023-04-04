@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "meu primeiro aplicativo web com nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hendlerfrai/node.js.git"
+  },
+  "author": "raissa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hendlerfrai/node.js/issues"
+  },
+  "homepage": "https://github.com/hendlerfrai/node.js#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
